@@ -6,7 +6,7 @@
 #### Reference Projects:
 1. **Amazon**
    - *Scope:* Amazon is a global e-commerce and technology giant.
-   - *Objectives:* To provide a vast marketplace for various products, including retail and third-party sellers.
+   - *Objectives:* To provide a vast marketplace for various products, including retail and third-party sellers
    - *Scale:* One of the largest e-commerce platforms, serving customers globally.
    - *Structures Used:* Advanced recommendation algorithms, secure payment systems, and seller analytics.
      
