@@ -41,7 +41,7 @@
      
 
 
-2. **OpenTable**
+2. [**OpenTable**](https://www.opentable.com/)
    - *Scope*: OpenTable focuses on restaurant reservations.
    - *Objectives*: To provide a platform for users to discover and book reservations at restaurants.
    - *Scale*: Primarily global, serving users in multiple countries.
@@ -55,7 +55,7 @@
 
 
 
-3. **Ticketmaster**
+3. [**Ticketmaster**](https://www.ticketmaster.com/)
    - *Scope*: Ticketmaster is a global ticketing platform for live events.
    - *Objectives*: To provide a comprehensive ticketing solution for concerts, sports events, and live performances.
    - *Scale*: Operates globally, serving a wide range of events and venues.
