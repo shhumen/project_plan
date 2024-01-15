@@ -49,6 +49,10 @@
   
      ![image](https://github.com/shhumen/project_plan/assets/70858596/5cfb12f0-5d00-4f48-946a-d885f4995d42)
 
+     ![image](https://github.com/shhumen/project_plan/assets/70858596/3775b99e-c2ef-4ac3-9498-e64d2a3c1b10)
+
+     ![image](https://github.com/shhumen/project_plan/assets/70858596/46906158-54f8-4332-a425-af98e79721db)
+
 
 
 3. **Ticketmaster**
